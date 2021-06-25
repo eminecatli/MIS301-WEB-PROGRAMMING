@@ -23,3 +23,5 @@
   •	BOX ICON: I added box icon codes for the writing and membership areas.
   
   •	BOOTSTRAP: That my website can be displayed to ensure that the map I have added can be displayed in this way.
+
+     Emine ÇATLI - 16030411023
