@@ -1,8 +1,8 @@
 # MIS301-WEB-PROGRAMMING --> 'World Cuisine' Web Site
 
-  My name is Emine Çatlı. While designing this site, I tried to apply what I learned this year. I created the World Cuisine website by blending what I learned from the projects we did for other courses and the special notes of the MIS301 course. The purpose of this site is to be a special site for the most famous dishes from the most famous cuisines in the world, not every dish in the world. Another feature that makes this site special is that people can request special cuisines or recipes through membership. If it becomes a website that is desired to be developed in the future, this feature can provide many benefits and show the data demand from high to low with a special database.
+  My name is Emine Çatlı. While designing this site, I tried to apply what I learned this year. I created the World Cuisine website by blending what I learned from the projects we did for other courses and the special notes of the MIS301 course. The purpose of this site is to be a special site for the most famous dishes from the most famous cuisines in the world, not every dish in the world. Another feature that makes this site special is that people can request special cuisines or recipes through membership. If it becomes a website that is desired to be developed in the future, this feature can provide many benefits and show the data demand from high to low with a special database. 
 
-  I created a total of 4 HTML, 2 CSS, and 1 JavaScript files, except for the codes that I did not use as ready-made templates.
+  I created a total of 4 HTML, 2 CSS, and 1 JavaScript files, except for the codes that I did not use as ready-made templates. I used Visual Studio Code program in my project.
   
   If we talk about some special programs and tools that I use;
   
